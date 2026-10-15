@@ -1,4 +1,4 @@
-# finalslabexam
+# post_reader_favorites
 
 A new Flutter project.
 
